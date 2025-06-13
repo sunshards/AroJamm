@@ -1,0 +1,435 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3D04B5BD2BCEC2E600810CA5 /* TutorialMapView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D04B5BC2BCEC2E600810CA5 /* TutorialMapView2.swift */; };
+		3D04B5BF2BCEC54D00810CA5 /* TutorialMapView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D04B5BE2BCEC54D00810CA5 /* TutorialMapView1.swift */; };
+		3D04B5C32BCECDC800810CA5 /* TutorialMapView4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D04B5C22BCECDC800810CA5 /* TutorialMapView4.swift */; };
+		3D04B5C52BCECEAE00810CA5 /* TutorialMapView6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D04B5C42BCECEAE00810CA5 /* TutorialMapView6.swift */; };
+		3D0D2FD42BCD705D000FCDA5 /* Postcard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0D2FD32BCD705D000FCDA5 /* Postcard.swift */; };
+		3D29BB152BCD61B2007C721C /* Targets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D29BB122BCD61B2007C721C /* Targets.swift */; };
+		3D29BB172BCD61B2007C721C /* UserLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D29BB142BCD61B2007C721C /* UserLocation.swift */; };
+		3D3EA0BF2BCE854E004E8793 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3EA0BE2BCE854E004E8793 /* MapView.swift */; };
+		3D4332272BCA6AB2000DDDBD /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4332262BCA6AB2000DDDBD /* MapView.swift */; };
+		3D5007192BCFFEDD00AC7694 /* TutorialMapView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5007182BCFFEDD00AC7694 /* TutorialMapView3.swift */; };
+		3D50071B2BD0059D00AC7694 /* TutorialMapView7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D50071A2BD0059D00AC7694 /* TutorialMapView7.swift */; };
+		3D50071D2BD0062B00AC7694 /* TutorialMapView8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D50071C2BD0062B00AC7694 /* TutorialMapView8.swift */; };
+		3D5007212BD00B7F00AC7694 /* TutorialMapView5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5007202BD00B7F00AC7694 /* TutorialMapView5.swift */; };
+		3D5CC45F2BC99CC100A13ED2 /* MapDoubleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5CC45E2BC99CC100A13ED2 /* MapDoubleButton.swift */; };
+		3D5CC4612BC99D5900A13ED2 /* MapSingleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5CC4602BC99D5900A13ED2 /* MapSingleButton.swift */; };
+		3D831A732BC7D39B00F53E97 /* SelectableCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D831A722BC7D39B00F53E97 /* SelectableCard.swift */; };
+		3D831A752BC7D45C00F53E97 /* IconButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D831A742BC7D45C00F53E97 /* IconButton.swift */; };
+		3D831A772BC7D65000F53E97 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D831A762BC7D65000F53E97 /* WelcomeView.swift */; };
+		3DC229C42BC7D8CB003FBD5A /* QuestionCompanyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC229C32BC7D8CB003FBD5A /* QuestionCompanyView.swift */; };
+		3DC229C62BC7DBD2003FBD5A /* QuestionCategoriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC229C52BC7DBD2003FBD5A /* QuestionCategoriesView.swift */; };
+		3DD25FEE2BC66584007C1E72 /* AroJammApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD25FED2BC66584007C1E72 /* AroJammApp.swift */; };
+		3DD25FF22BC66585007C1E72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DD25FF12BC66585007C1E72 /* Assets.xcassets */; };
+		3DD25FF52BC66585007C1E72 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DD25FF42BC66585007C1E72 /* Preview Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3D04B5BC2BCEC2E600810CA5 /* TutorialMapView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialMapView2.swift; sourceTree = "<group>"; };
+		3D04B5BE2BCEC54D00810CA5 /* TutorialMapView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialMapView1.swift; sourceTree = "<group>"; };
+		3D04B5C22BCECDC800810CA5 /* TutorialMapView4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialMapView4.swift; sourceTree = "<group>"; };
+		3D04B5C42BCECEAE00810CA5 /* TutorialMapView6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialMapView6.swift; sourceTree = "<group>"; };
+		3D0D2FD32BCD705D000FCDA5 /* Postcard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Postcard.swift; sourceTree = "<group>"; };
+		3D29BB122BCD61B2007C721C /* Targets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Targets.swift; sourceTree = "<group>"; };
+		3D29BB142BCD61B2007C721C /* UserLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserLocation.swift; sourceTree = "<group>"; };
+		3D3EA0BE2BCE854E004E8793 /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		3D4332262BCA6AB2000DDDBD /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MapView.swift; path = AroJamm/MapView.swift; sourceTree = SOURCE_ROOT; };
+		3D5007182BCFFEDD00AC7694 /* TutorialMapView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialMapView3.swift; sourceTree = "<group>"; };
+		3D50071A2BD0059D00AC7694 /* TutorialMapView7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialMapView7.swift; sourceTree = "<group>"; };
+		3D50071C2BD0062B00AC7694 /* TutorialMapView8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialMapView8.swift; sourceTree = "<group>"; };
+		3D5007202BD00B7F00AC7694 /* TutorialMapView5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialMapView5.swift; sourceTree = "<group>"; };
+		3D5CC45E2BC99CC100A13ED2 /* MapDoubleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapDoubleButton.swift; sourceTree = "<group>"; };
+		3D5CC4602BC99D5900A13ED2 /* MapSingleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapSingleButton.swift; sourceTree = "<group>"; };
+		3D831A722BC7D39B00F53E97 /* SelectableCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectableCard.swift; sourceTree = "<group>"; };
+		3D831A742BC7D45C00F53E97 /* IconButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconButton.swift; sourceTree = "<group>"; };
+		3D831A762BC7D65000F53E97 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		3DC229C32BC7D8CB003FBD5A /* QuestionCompanyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionCompanyView.swift; sourceTree = "<group>"; };
+		3DC229C52BC7DBD2003FBD5A /* QuestionCategoriesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionCategoriesView.swift; sourceTree = "<group>"; };
+		3DD25FEA2BC66584007C1E72 /* AroJamm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AroJamm.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DD25FED2BC66584007C1E72 /* AroJammApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AroJammApp.swift; sourceTree = "<group>"; };
+		3DD25FF12BC66585007C1E72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3DD25FF42BC66585007C1E72 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3DD25FE72BC66584007C1E72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3D50071F2BD0070900AC7694 /* TutorialMapViews */ = {
+			isa = PBXGroup;
+			children = (
+				3D04B5BE2BCEC54D00810CA5 /* TutorialMapView1.swift */,
+				3D04B5BC2BCEC2E600810CA5 /* TutorialMapView2.swift */,
+				3D5007182BCFFEDD00AC7694 /* TutorialMapView3.swift */,
+				3D04B5C22BCECDC800810CA5 /* TutorialMapView4.swift */,
+				3D5007202BD00B7F00AC7694 /* TutorialMapView5.swift */,
+				3D04B5C42BCECEAE00810CA5 /* TutorialMapView6.swift */,
+				3D50071A2BD0059D00AC7694 /* TutorialMapView7.swift */,
+				3D50071C2BD0062B00AC7694 /* TutorialMapView8.swift */,
+			);
+			name = TutorialMapViews;
+			sourceTree = "<group>";
+		};
+		3DD25FE12BC66584007C1E72 = {
+			isa = PBXGroup;
+			children = (
+				3DD25FEC2BC66584007C1E72 /* AroJamm */,
+				3DD25FEB2BC66584007C1E72 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3DD25FEB2BC66584007C1E72 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3DD25FEA2BC66584007C1E72 /* AroJamm.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3DD25FEC2BC66584007C1E72 /* AroJamm */ = {
+			isa = PBXGroup;
+			children = (
+				3DD25FED2BC66584007C1E72 /* AroJammApp.swift */,
+				3D0D2FD32BCD705D000FCDA5 /* Postcard.swift */,
+				3D5CC45E2BC99CC100A13ED2 /* MapDoubleButton.swift */,
+				3D5CC4602BC99D5900A13ED2 /* MapSingleButton.swift */,
+				3D831A722BC7D39B00F53E97 /* SelectableCard.swift */,
+				3D831A742BC7D45C00F53E97 /* IconButton.swift */,
+				3D29BB122BCD61B2007C721C /* Targets.swift */,
+				3D29BB142BCD61B2007C721C /* UserLocation.swift */,
+				3D831A762BC7D65000F53E97 /* WelcomeView.swift */,
+				3DC229C32BC7D8CB003FBD5A /* QuestionCompanyView.swift */,
+				3DC229C52BC7DBD2003FBD5A /* QuestionCategoriesView.swift */,
+				3D3EA0BE2BCE854E004E8793 /* MapView.swift */,
+				3D50071F2BD0070900AC7694 /* TutorialMapViews */,
+				3DD25FF12BC66585007C1E72 /* Assets.xcassets */,
+				3DD25FF32BC66585007C1E72 /* Preview Content */,
+			);
+			path = AroJamm;
+			sourceTree = "<group>";
+		};
+		3DD25FF32BC66585007C1E72 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3D4332262BCA6AB2000DDDBD /* MapView.swift */,
+				3DD25FF42BC66585007C1E72 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3DD25FE92BC66584007C1E72 /* AroJamm */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3DD25FF82BC66585007C1E72 /* Build configuration list for PBXNativeTarget "AroJamm" */;
+			buildPhases = (
+				3DD25FE62BC66584007C1E72 /* Sources */,
+				3DD25FE72BC66584007C1E72 /* Frameworks */,
+				3DD25FE82BC66584007C1E72 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AroJamm;
+			productName = AroJamm;
+			productReference = 3DD25FEA2BC66584007C1E72 /* AroJamm.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3DD25FE22BC66584007C1E72 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1530;
+				LastUpgradeCheck = 1530;
+				TargetAttributes = {
+					3DD25FE92BC66584007C1E72 = {
+						CreatedOnToolsVersion = 15.3;
+					};
+				};
+			};
+			buildConfigurationList = 3DD25FE52BC66584007C1E72 /* Build configuration list for PBXProject "AroJamm" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3DD25FE12BC66584007C1E72;
+			productRefGroup = 3DD25FEB2BC66584007C1E72 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3DD25FE92BC66584007C1E72 /* AroJamm */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3DD25FE82BC66584007C1E72 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DD25FF52BC66585007C1E72 /* Preview Assets.xcassets in Resources */,
+				3DD25FF22BC66585007C1E72 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3DD25FE62BC66584007C1E72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DC229C62BC7DBD2003FBD5A /* QuestionCategoriesView.swift in Sources */,
+				3D831A772BC7D65000F53E97 /* WelcomeView.swift in Sources */,
+				3D831A752BC7D45C00F53E97 /* IconButton.swift in Sources */,
+				3D50071D2BD0062B00AC7694 /* TutorialMapView8.swift in Sources */,
+				3DD25FEE2BC66584007C1E72 /* AroJammApp.swift in Sources */,
+				3D29BB172BCD61B2007C721C /* UserLocation.swift in Sources */,
+				3D831A732BC7D39B00F53E97 /* SelectableCard.swift in Sources */,
+				3D5CC4612BC99D5900A13ED2 /* MapSingleButton.swift in Sources */,
+				3D3EA0BF2BCE854E004E8793 /* MapView.swift in Sources */,
+				3D5CC45F2BC99CC100A13ED2 /* MapDoubleButton.swift in Sources */,
+				3D4332272BCA6AB2000DDDBD /* MapView.swift in Sources */,
+				3D50071B2BD0059D00AC7694 /* TutorialMapView7.swift in Sources */,
+				3DC229C42BC7D8CB003FBD5A /* QuestionCompanyView.swift in Sources */,
+				3D04B5BD2BCEC2E600810CA5 /* TutorialMapView2.swift in Sources */,
+				3D04B5C52BCECEAE00810CA5 /* TutorialMapView6.swift in Sources */,
+				3D0D2FD42BCD705D000FCDA5 /* Postcard.swift in Sources */,
+				3D29BB152BCD61B2007C721C /* Targets.swift in Sources */,
+				3D04B5BF2BCEC54D00810CA5 /* TutorialMapView1.swift in Sources */,
+				3D5007212BD00B7F00AC7694 /* TutorialMapView5.swift in Sources */,
+				3D04B5C32BCECDC800810CA5 /* TutorialMapView4.swift in Sources */,
+				3D5007192BCFFEDD00AC7694 /* TutorialMapView3.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3DD25FF62BC66585007C1E72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3DD25FF72BC66585007C1E72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3DD25FF92BC66585007C1E72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"AroJamm/Preview Content\"";
+				DEVELOPMENT_TEAM = K3D3D89R3N;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = simoneboscaglia.test;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3DD25FFA2BC66585007C1E72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"AroJamm/Preview Content\"";
+				DEVELOPMENT_TEAM = K3D3D89R3N;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = simoneboscaglia.test;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3DD25FE52BC66584007C1E72 /* Build configuration list for PBXProject "AroJamm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DD25FF62BC66585007C1E72 /* Debug */,
+				3DD25FF72BC66585007C1E72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3DD25FF82BC66585007C1E72 /* Build configuration list for PBXNativeTarget "AroJamm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DD25FF92BC66585007C1E72 /* Debug */,
+				3DD25FFA2BC66585007C1E72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3DD25FE22BC66584007C1E72 /* Project object */;
+}
