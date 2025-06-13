@@ -16,8 +16,8 @@ The presentation has also been exported to [PowerPoint](https://www.dropbox.com/
 You can also see a [small demo of the app](https://youtu.be/JB_lgBAjq5A).
 
 ## About
-![](assets/screenshot_1.png | width=200)
-![](assets/screenshot_2.png | width=200)
+<img src="assets/screenshot_1.png" width="200"/>
+<img src="assets/screenshot_2.png" width="200"/>
 
 Aro Jamm is an app designed for turists visiting Naples. The first time you open it you are asked for your **preferences** regarding what to visit. There are 6 categories: Culture, Nature, Street Art, Theatre, Religion and Sports.
 
@@ -25,8 +25,8 @@ Aro Jamm is an app designed for turists visiting Naples. The first time you open
 The app then allows you with a simple tap to check out the places near you that best fit your criteria. 
 There are also postcards that can help you learn more about Naples' history and the place you will visit next.
 
-![](assets/screenshot_3.png | width=200)
-![](assets/screenshot_4.png | width=200)
+<img src="assets/screenshot_3.png" width="200"/>
+<img src="assets/screenshot_4.png" width="200"/>
 
 ## Technologies
 
