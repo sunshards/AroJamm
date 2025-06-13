@@ -51,4 +51,7 @@ The app was created by a team of 8 people from various backgrounds:
 
 We also received feedback from UI/UX tutors that helped us learn ways to make the app more accessible and straightforward to use.
 
+<img src="assets/team.png" width="500"/>
+
+
 
