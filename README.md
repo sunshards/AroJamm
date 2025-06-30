@@ -2,13 +2,11 @@
 
 ## AroJamm
 
-<br><br><br>
+<br>
 
 **AroJamm** is a mobile app that helps tourists discover Naples through curated recommendations based on their interests. Designed for simplicity and cultural insight, AroJamm combines real-time location awareness with thematic filtering to suggest nearby landmarks and attractions.
 
 > The name comes from the Neapolitan phrase *"arò jamm"*—meaning "Where are we going?"—used both to ask for direction and to express uncertainty.
-
-
 
 ## 📍 Project Context
 
