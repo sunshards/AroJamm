@@ -2,9 +2,7 @@
 
 ## AroJamm
 
-
-
-<br clear="left" />
+<br><br><br>
 
 **AroJamm** is a mobile app that helps tourists discover Naples through curated recommendations based on their interests. Designed for simplicity and cultural insight, AroJamm combines real-time location awareness with thematic filtering to suggest nearby landmarks and attractions.
 
@@ -95,5 +93,5 @@ Although AroJamm was a prototype built in one week, there are several potential 
 
 ## 📢 Contact
 
-This repository is unofficial and provided for demo and educational purposes only.  
+This repository is provided for demo and educational purposes only.  
 For feedback or collaboration, feel free to open an issue or reach out.
